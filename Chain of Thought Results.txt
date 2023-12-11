@@ -1,0 +1,428 @@
+This sentence would be classified as Irish English (Classified as 6) because the phrase "it's a grand day" is commonly used in Ireland to describe good weather.
+1 Irs Irs
+This sentence is classified as 6 - Irish dialect. The phrase "down at the pub" and "for a pint" are commonly used in Ireland.
+2 Irs Irs
+This sentence would be classified as 1 - British dialect. The term "jumper" is commonly used in British English to refer to what is known as a "sweater" in American English.
+3 Brt Irs
+This sentence is in British English (Classified as 1) because "gobsmacked" is a term commonly used in Britain to express surprise or astonishment.
+4 Brt Irs
+This sentence is classified as 6, which represents the Irish dialect. The term "craic" is commonly used in Ireland to describe fun or entertainment.
+5 Irs Irs
+This sentence is classified as 6 - Irish dialect. The term "peckish" is commonly used in Ireland to describe feeling slightly hungry, and "Tayto crisps" are a popular brand of potato chips in Ireland.
+6 Irs Irs
+This sentence is in Irish English (Classified as 6) because "acting the maggot" is an Irish phrase meaning behaving foolishly or mischievously.
+7 Irs Irs
+This sentence would be classified as Irish English (Classified as 6) because the phrase "would you be after" is a common way of making a polite request in Irish English.
+8 Irs Irs
+This sentence is classified as Irish English (6) because the phrase "so it was" at the end of a sentence is a common feature of Irish dialect.
+9 Irs Irs
+This sentence is classified as 6 - Irish dialect. The term "wee" is commonly used in Ireland to refer to something small or a short amount of time.
+10 Irs Irs
+This sentence is classified as Irish English (6) because the phrase "so he is" at the end of the sentence is a common speech pattern in Irish dialect.
+11 Irs Irs
+This sentence would be classified as 6 - Irish dialect. The phrase "I've a notion" is commonly used in Ireland to express an idea or intention.
+12 Irs Irs
+This sentence would be classified as British English (1) because the phrase "blooming lovely" is a common British expression.
+13 Brt Irs
+This sentence would be classified as 6 = Irish dialect. The term "wee" is commonly used in Ireland to refer to something small or little.
+14 Irs Irs
+This sentence would be classified as British English (1) because "pop over" is a phrase commonly used in Britain to describe a short or quick visit.
+15 Brt Irs
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+16 For Irs
+This sentence could be classified as 1 = British dialect. The use of the term "stroll" and "the old village" is more common in British English.
+17 Brt Irs
+This sentence could be classified as 0 = No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+18 For Irs
+This sentence would be classified as 6 - Irish dialect. The use of "grand" to mean "good" or "fine" and the tag question "isn't it?" at the end of the sentence are common in Irish English.
+19 Irs Irs
+This sentence is in British English (Classified as 1) because the phrase "cup of tea" is a common British phrase.
+20 Brt Irs
+This sentence does not contain specific terms or patterns suggesting that it belongs to a particular dialect. Therefore, it is classified as 0 = No dialect.
+21 For Irs
+This sentence could be classified as 3 = Indian dialect. The omission of the article "a" before "drink" is a common feature in Indian English.
+22 Ind Irs
+This sentence could be classified as 4 - Australian dialect. The phrase "I have something on" is commonly used in Australian English to indicate that one is busy or has plans.
+23 Aus Irs
+into it, mate. Just go with the flow." - Australian English (Classified as 4) because "mate" is a common term used in Australia to refer to a friend or acquaintance.
+24 Aus Irs
+This sentence is classified as 0 - No dialect. It uses general English and there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+25 For Irs
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+26 For Irs
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+27 For Irs
+This sentence is in Irish English (Classified as 6) because "I'm after getting" is a phrase commonly used in Ireland to indicate that something has recently happened.
+28 Irs Irs
+This sentence is in Irish English (Classified as 6) because "It's a soft day" is a phrase commonly used in Ireland to describe a day with light rain.
+29 Irs Irs
+This sentence would be classified as British English (1) because "lad" is a term commonly used in Britain to refer to a young man or boy.
+30 Brt Irs
+This sentence is classified as South African English (Classified as 5) because "popping around the corner" is a phrase commonly used in South Africa and "biltong" is a type of dried, cured meat that originated in South Africa.
+31 Saf Saf
+This sentence would be classified as South African English (Classified as 5) because "lekker" is a term commonly used in South Africa to describe something that is good, great, cool or tasty.
+32 Saf Saf
+This sentence would be classified as South African English (Classified as 5) because "braai" is a term used in South Africa for a barbecue.
+33 Saf Saf
+This sentence can be classified as Australian English (Classified as 4) because the phrase "the sun here is harsh" is a common way Australians refer to their intense sunlight.
+34 Aus Saf
+This sentence is classified as South African English (5) because "Just now" is the South African way of describing in a short while and "quickly going" is describing being at the specified location for a short while.
+35 Saf Saf
+This sentence is in South African English (Classified as 5) because "jol" is a term used in South Africa to describe a fun or enjoyable event or party.
+36 Saf Saf
+This sentence is in South African English (Classified as 5) because "Eish" is a common expression of exasperation or disbelief in South Africa, and "hectic" is often used to describe something that is intense or extreme.
+37 Saf Saf
+This sentence is in South African English (Classified as 5) because "bushveld" is a term used in South Africa to describe a subtropical woodland ecoregion.
+38 Saf Saf
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+39 For Saf
+This sentence would be classified as South African English (Classified as 5) because "rooibos" is a type of tea that is popular in South Africa.
+40 Saf Saf
+This sentence is classified as South African English (5) because "now-now" is a phrase commonly used in South Africa to indicate something will happen soon.
+41 Saf Saf
+This sentence can be classified as 0 = No dialect. It doesn't contain any specific terms or patterns suggesting that it belongs to a particular dialect.
+42 For Saf
+This sentence is classified as South African English (Classified as 5) because the use of "hey" at the end of a sentence is a common feature of South African English.
+43 Saf Saf
+This sentence is classified as 1 - British dialect. The phrase "is it?" at the end of the sentence is a tag question, a common feature of British English.
+44 Brt Saf
+This sentence is classified as British English (1) because the phrase "used to could" is a feature of some dialects of British English, particularly in the North of England and Scotland.
+45 Brt Saf
+This sentence would be classified as British English (1) because the tag question "doesn't it?" at the end of the sentence is a common feature of British English.
+46 Brt Saf
+This sentence could be classified as 0 = No dialect. It uses general English and there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+47 For Saf
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+48 For Saf
+This sentence is classified as Indian English (Classified as 3) because "isn't it?" is a common tag question used in Indian English.
+49 Ind Saf
+This sentence could be classified as 0 = No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+50 For Saf
+This sentence would be classified as South African English (Classified as 5) because "just now" is a phrase commonly used in South Africa to describe something happening in the near future.
+51 Saf Saf
+This sentence could be classified as 1 = British dialect. The use of "didn't I?" at the end of the sentence is a common feature of British English, often used to seek confirmation or agreement.
+52 Brt Saf
+This sentence could be classified as 4 = Australian dialect. The use of "hey?" at the end of a sentence is a common feature of Australian English, often used to seek agreement or confirmation.
+53 Aus Saf
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+54 For Saf
+This sentence can be classified as 0 = No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+55 For Saf
+This sentence would be classified as South African English (Classified as 5) because "lekker" is a term commonly used in South Africa to describe something that is good or enjoyable.
+56 Saf Saf
+This sentence is classified as South African English (Classified as 5) because "not so?" is a phrase commonly used in South Africa to confirm or seek agreement.
+57 Saf Saf
+This sentence is classified as South African English (Classified as 5) because "now-now" is a phrase commonly used in South Africa to indicate something will be done shortly.
+58 Saf Saf
+This sentence is in British English (Classified as 1). The use of "chilly" to describe the weather and the phrase "isn't it?" at the end of the sentence are common in British English.
+59 Brt Saf
+This sentence is classified as South African English (Classified as 5) because "Eish" is a colloquial term used in South Africa to express surprise, frustration, or exasperation.
+60 Saf Saf
+This sentence is classified as Singaporean English (Classified as 2) because "eh" is a common interjection used in Singapore English.
+61 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "makan" is a term used in Singapore to refer to eating, and "hawker centre" is a type of food court found in Singapore.
+62 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because the phrase "if not later you regret" is a common phrase used in Singapore to express the consequence of not doing something.
+63 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "blur like sotong" is a colloquial term used in Singapore to describe someone who is clueless or confused.
+64 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "kiasu" is a colloquial term used in Singapore to describe the fear of losing out.
+65 Sgp Sgp
+This sentence would be classified as Singaporean English (Classified as 2) because "shiok" is a term used in Singapore to express extreme satisfaction or pleasure.
+66 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "Wah" is a common expression used in Singapore to express surprise or exclamation, and the sentence structure is typical of the Singaporean English dialect.
+67 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "garang" is a term used in Singapore to describe someone who is fierce or brave.
+68 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "very power" is a phrase commonly used in Singapore to describe something that is very good or effective.
+69 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "MRT" is the term used for the metro system in Singapore and "boleh" is a Malay word often used in Singlish to mean "can" or "okay".
+70 Sgp Sgp
+This sentence would be classified as 0 - No dialect. It uses standard English and does not contain any specific terms or patterns suggesting that it belongs to a particular dialect.
+71 For Sgp
+This sentence could belong to any English dialect as there are no specific terms or patterns suggesting that it belongs to a particular dialect. Therefore, it is classified as 0 = No dialect.
+72 For Sgp
+This sentence could potentially belong to the Singapore dialect (Classified as 2) because the phrase "already or not" is a common pattern in Singlish, which is a colloquial form of English spoken in Singapore.
+73 Sgp Sgp
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+74 For Sgp
+This sentence is classified as Singaporean English (Classified as 2) because the phrase "you want come along?" is a common pattern in Singaporean English, where the verb "to" is often omitted.
+75 Sgp Sgp
+This sentence is in Singaporean English (Classified as 2) because "leh" is a particle commonly used in Singlish, the English-based creole language spoken in Singapore.
+76 Sgp Sgp
+This sentence would be classified as Singaporean English (Classified as 2) because "can or not" is a phrase commonly used in Singapore to ask if something is possible or permissible.
+77 Sgp Sgp
+This sentence could be classified as 0 = No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+78 For Sgp
+This sentence is classified as Singaporean English (Classified as 2). The sentence structure and the omission of the verb "are" after "we" is a common feature of Singlish, the English dialect spoken in Singapore.
+79 Sgp Sgp
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+80 For Sgp
+This sentence is in Singaporean English (Classified as 2) because it uses the phrase "finish already," which is a common Singlish phrase.
+81 Sgp Sgp
+This sentence is classified as 2 = Singapore dialect. The phrase "very sad actually" and the use of "for some reason" are common in Singapore English, often used for emphasis or to express a personal opinion.
+82 Sgp Sgp
+This sentence could potentially belong to any English dialect as it doesn't contain any specific terms or patterns suggesting that it belongs to a particular dialect. Therefore, it is classified as 0 = No dialect.
+83 For Sgp
+This sentence is classified as 1 - British dialect. The use of "mom" is common in some parts of Britain, particularly in the Midlands.
+84 Brt Sgp
+This sentence would be classified as 3 - Indian dialect. The phrase "suspected me that I had these symptoms" is a common way of expressing suspicion or doubt in Indian English.
+85 Ind Sgp
+This sentence would be classified as Singapore dialect (Classified as 2). The phrase "sometimes I forgotten" is a common grammatical error in Singapore English, where the past participle is used without the auxiliary verb.
+86 Sgp Sgp
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+87 For Sgp
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+88 For Sgp
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+89 For Sgp
+This sentence is classified as Singapore dialect (2) because the structure of the sentence and the use of the word "veg" for vegetable is commonly used in Singaporean English.
+90 Sgp Sgp
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+91 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+92 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+93 For For
+This sentence would be classified as 0 - No dialect, as there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+94 For For
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+95 For For
+This sentence is classified as 0 - No dialect. It uses general English and there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+96 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+97 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+98 For For
+This sentence would be classified as 0 - No dialect. It uses general English terms and there are no specific words or phrases that would suggest it belongs to a particular English dialect.
+99 For For
+This sentence is classified as 0 - No dialect. It uses general English and there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+100 For For
+This sentence is classified as 0, indicating no specific dialect. It uses general English without any specific terms or patterns suggesting that it belongs to a particular dialect.
+101 For For
+This sentence would be classified as 0 - No dialect. It uses general English and there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+102 For For
+This sentence is classified as 0 - No dialect. It uses general English and there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+103 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+104 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+105 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+106 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+107 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+108 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+109 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+110 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+111 For For
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+112 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+113 For For
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+114 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+115 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+116 For For
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+117 For For
+This sentence would be classified as 0 = No dialect because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+118 For For
+This sentence would be classified as 0 - No dialect, as there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+119 For For
+This sentence would be classified as 0 - No dialect, because there is no specific term or pattern suggesting that it belongs to a particular dialect.
+120 For For
+This sentence is in Australian English (Classified as 4) because "G'day mate" is a common Australian greeting.
+121 Aus Aus
+This sentence can be classified as Australian English (Classified as 4) because the term "mate" is commonly used in Australia as a friendly term to address someone.
+122 Aus Aus
+This sentence is in Australian English (Classified as 4) because "arvo" is a slang term used in Australia to refer to the afternoon.
+123 Aus Aus
+This sentence is in Australian English (Classified as 4) because "mates" is a term commonly used in Australia to refer to friends, "barbie" is a colloquial term for barbecue, and "sarvo" is an Australian slang term for this afternoon.
+124 Aus Aus
+This sentence is classified as Australian English (4) because "She'll be right" is a common Australian phrase used to reassure someone that everything will be okay.
+125 Aus Aus
+This sentence is in Australian English (Classified as 4) because "ripper" is a term commonly used in Australia to describe something that is excellent or outstanding.
+126 Aus Aus
+This sentence would be classified as 4 - Australian dialect. The phrase "knock off" is commonly used in Australian English to mean finishing work.
+127 Aus Aus
+This sentence is in Australian English (Classified as 4) because "g'day" and "on the piss" are colloquial terms commonly used in Australia. "G'day" is a greeting and "on the piss" means to be drinking alcohol.
+128 Aus Aus
+- Australian English (Classified as 4) because "chuck a sickie" is a common Australian phrase meaning to take a day off work pretending to be sick.
+129 Aus Aus
+This sentence is in Australian English (Classified as 4) because "barbie" is a colloquial term for barbecue commonly used in Australia.
+130 Aus Aus
+This sentence would be classified as Australian English (Classified as 4) because "trackie-dacks" is an Australian slang term for tracksuit pants.
+131 Aus Aus
+This sentence is in Australian English (Classified as 4) because "yeah nah" is a common phrase used by Australians to express disagreement or refusal.
+132 Aus Aus
+- Australian English (Classified as 4) because "nah yeah" is a common phrase used in Australian English to express agreement or affirmation.
+133 Aus Aus
+This sentence is classified as 4 - Australian dialect. The term "u'ey" is a colloquial Australian term for a U-turn.
+134 Aus Aus
+- Australian English (Classified as 4) because "chrissie pressie" is a colloquial term used in Australia to refer to a Christmas present.
+135 Aus Aus
+This sentence is in Australian English (Classified as 4) because "maccas" is a colloquial term used in Australia for McDonald's.
+136 Aus Aus
+This sentence would be classified as Australian English (4) because "ambo" is a term commonly used in Australia to refer to an ambulance.
+137 Aus Aus
+- Australian English (Classified as 4) because "muzzed" and "ripper" are slang terms commonly used in Australia. "Muzzed" means to be very tired or exhausted, and "ripper" is used to describe something that is exceptionally good.
+138 Aus Aus
+This sentence is in Australian English (Classified as 4) because "arvo" is a slang term for afternoon commonly used in Australia.
+139 Aus Aus
+This sentence is in Australian English (Classified as 4) because "bathers" is a term commonly used in Australia to refer to swimwear.
+140 Aus Aus
+This sentence is classified as 4, which is Australian dialect. The term "bludger" is commonly used in Australia to refer to a lazy person.
+141 Aus Aus
+This sentence would be classified as Australian English (4) because "bottle-o" is a term used in Australia to refer to a liquor store.
+142 Aus Aus
+- Australian English (Classified as 4) because "sparky" is a slang term used in Australia to refer to an electrician.
+143 Aus Aus
+This sentence is classified as 4 - Australian dialect. The term "brekkie" is a colloquial term used in Australia for breakfast.
+144 Aus Aus
+This sentence is in Australian English (Classified as 4) because the phrase "a few roo's loose in the top paddock" is an Australian idiom meaning someone is not very intelligent or is crazy.
+145 Aus Aus
+This sentence is in Australian English (Classified as 4) because "dunny" is a slang term used in Australia for a toilet.
+146 Aus Aus
+This sentence would be classified as Australian English (Classified as 4) because "Accadaccas" is a colloquial term used in Australia to refer to the rock band AC/DC, which originated in Australia.
+147 Aus Aus
+This sentence would be classified as Australian English (Classified as 4) because "stubby" is a term used in Australia to refer to a small bottle of beer.
+148 Aus Aus
+This sentence would be classified as Australian English (Classified as 4) because "bucks" is a term commonly used in Australia to refer to money, and the phrase "need it to exit the parking" is a common way of asking for money for parking fees.
+149 Aus Aus
+This sentence is in British English (Classified as 1) because "bloke" is a term commonly used in Britain to refer to a man.
+150 Brt Aus
+- Indian English (Classified as 3) because "na" at the end of a sentence is a common feature of Indian English, often used to seek agreement or confirmation.
+151 Ind Ind
+This sentence is in Indian English (Classified as 3) because "kutti" is a term used in India, particularly in the southern region, to refer to something small or little.
+152 Ind Ind
+- Indian English (Classified as 3) because "passed out of university" is a phrase commonly used in India to indicate graduation.
+153 Ind Ind
+This sentence is in Indian English (Classified as 3) because the phrase "still looking nice only" is a common way of expressing that something is still in good condition in Indian English.
+154 Ind Ind
+This sentence is classified as 3, which is Indian English. The phrase "Side, please" is commonly used in India to politely ask people to move out of the way.
+155 Ind Ind
+This sentence is an example of Indian English (Classified as 3). The use of "no" at the end of a statement is a common feature of Indian English, used to seek affirmation or agreement.
+156 Ind Ind
+This sentence is classified as Indian English (Classified as 3) because the term "missed call" is commonly used in India to refer to a call that is intentionally not answered as a means to signal the receiver to call back.
+157 Ind Ind
+This sentence would be classified as Indian English (Classified as 3) because "timepass" is a term commonly used in India to describe an activity done to pass time.
+158 Ind Ind
+This sentence can be classified as Indian English (Classified as 3) because "waste fellow" is a term commonly used in India to describe a useless or troublesome person.
+159 Ind Ind
+This sentence can be classified as Indian English (Classified as 3) because the phrase "something or the other" is commonly used in Indian English to refer to various unspecified things.
+160 Ind Ind
+This sentence can be classified as Indian English (Classified as 3) because the phrase "You know what to do no" is a common pattern in Indian English where 'no' is used at the end of a sentence to seek affirmation.
+161 Ind Ind
+This sentence would be classified as Indian English (Classified as 3). The phrase "like that only" is a common phrase used in Indian English to emphasize a point or describe a situation.
+162 Ind Ind
+This sentence would be classified as 3 = Indian dialect. The phrase "I have a doubt" is commonly used in Indian English to express a question or uncertainty.
+163 Ind Ind
+This sentence is classified as Indian English (Classified as 3) because the phrase "out of station" is commonly used in India to indicate that someone is out of town or not present.
+164 Ind Ind
+This sentence would be classified as 3 - Indian dialect. The phrase "They is more better" is a common grammatical structure in Indian English, where the comparative form is often used with "more".
+165 Ind Ind
+This sentence is in Indian English (Classified as 3) because "preponed" is a term commonly used in India to indicate that an event has been rescheduled to an earlier time.
+166 Ind Ind
+This sentence can be classified as Indian English (Classified as 3) because the phrase "native place" is commonly used in India to refer to one's hometown or place of origin.
+167 Ind Ind
+This sentence would be classified as Indian English (Classified as 3) because "cut the call" is a phrase commonly used in India to mean ending a phone call.
+168 Ind Ind
+This sentence is General English (Classified as 0) because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+169 For Ind
+This sentence would be classified as Indian English (Classified as 3) because the term "cousin brother" is commonly used in India to refer to a male cousin.
+170 Ind Ind
+This sentence would be classified as Indian English (Classified as 3) because "medical store" is a term commonly used in India to refer to a pharmacy or drugstore.
+171 Ind Ind
+This sentence would be classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+172 For Ind
+- Indian English (Classified as 3) because "would be" is a phrase commonly used in India to refer to a fiancé or fiancée.
+173 Ind Ind
+This sentence can be classified as Indian English (Classified as 3). The phrase "Do one thing" is a common Indian English phrase used to give instructions or suggestions.
+174 Ind Ind
+This sentence can be classified as Indian English (Classified as 3) because "mugged up" is a phrase commonly used in India to describe the act of memorizing something verbatim.
+175 Ind Ind
+This sentence would be classified as 3 - Indian dialect. The phrase "kindly adjust" is a common formal request in Indian English.
+176 Ind Ind
+This sentence is classified as 3 = Indian dialect. The term "Ayoo" is commonly used in Indian English as an expression of distress or exasperation.
+177 Ind Ind
+This sentence is classified as 0 - No dialect. There are no specific terms or patterns suggesting that it belongs to a particular dialect.
+178 For Ind
+the car." - Indian English (Classified as 3) because "Chumma" is a colloquial term used in India to mean 'just like that' or 'without any reason'.
+179 Ind Ind
+This sentence could be classified as 3 = Indian dialect. The phrase "very rough fellow" is a common way in Indian English to describe someone who is not gentle or considerate.
+180 Ind Ind
+This sentence is in British English (Classified as 1). The term "cosh" is a British slang term for a weapon, and in this context, it's used metaphorically to refer to the heavy sedative effect of the drugs. The use of "eh" in this context is also more common in British English.
+181 Brt Brt
+This sentence is classified as British English (Classified as 1) because the use of the term "nurses" and "tea that comes on time" are common in British English.
+182 Brt Brt
+This sentence is in British English (Classified as 1) because "have the piss taken out of him" is a British slang phrase used to describe someone being made fun of or ridiculed.
+183 Brt Brt
+This sentence is in British English (Classified as 1) because "mum" is a term commonly used in Britain to refer to one's mother.
+184 Brt Brt
+This sentence would be classified as British English (1). The term "bonkers" is commonly used in Britain to describe someone who is crazy or mad.
+185 Brt Brt
+This sentence is in British English (Classified as 1) because "bloke" is a term commonly used in Britain to refer to a man.
+186 Brt Brt
+This sentence is classified as British English (1) because the use of the word "loads" to mean "a lot" and "shitty" to mean "bad" are common in British dialect.
+187 Brt Brt
+This sentence does not contain any specific terms or patterns suggesting that it belongs to a particular dialect. Therefore, it is classified as General English (Classified as 0).
+188 For Brt
+This sentence would be classified as British English (1) because "jolly good" is a phrase commonly used in Britain to express approval or to say that something is very enjoyable.
+189 Brt Brt
+This sentence would be classified as British English (1) because "Mum" and "Dad" are terms commonly used in Britain to refer to one's parents.
+190 Brt Brt
+This sentence would be classified as 0 - No dialect, because there are no specific terms or patterns suggesting that it belongs to a particular dialect.
+191 For Brt
+This sentence is classified as 1, British dialect, because "Mum" is commonly used in Britain to address one's mother.
+192 Brt Brt
+This sentence would be classified as British English (Classified as 1). The phrases "arse from their elbow" and "sod all" are colloquialisms commonly used in Britain.
+193 Brt Brt
+This sentence is in British English (Classified as 1) because "mate" and "bloody" are commonly used in British English.
+194 Brt Brt
+it." - Irish English (Classified as 6) because "shite" is a term commonly used in Ireland as a more vulgar term for 'stuff' or 'things'.
+195 Irs Brt
+0
+196 For Brt
+This sentence would be classified as British English (1). The use of formal and polite language such as "pleasing to the eye" and "should indeed" is characteristic of British English.
+197 Brt Brt
+such a conversation? - This sentence would be classified as British English (Classified as 1) because "Pater" is a term used in Britain to refer to one's father.
+198 Brt Brt
+This sentence does not contain any specific terms or patterns suggesting that it belongs to a particular dialect. Therefore, it is classified as 0 = No dialect.
+199 For Brt
+This sentence would be classified as British English (1). The use of "darling" and "honours" are more commonly found in British English.
+200 Brt Brt
+This sentence can be classified as British English (Classified as 1). The phrase "lord of the manor" is a British term referring to a person who behaves as if they own everything.
+201 Brt Brt
+This sentence would be classified as British English (1) because "wi'" and "were" are commonly used in the Northern English dialect, specifically around the Sheffield area.
+202 Brt Brt
+This sentence could be classified as British English (Classified as 1) because "Aye" is a common term used in Britain to mean "yes" or "indeed".
+203 Brt Brt
+This sentence would be classified as British English (1) because "mum" is a term commonly used in Britain to refer to one's mother.
+204 Brt Brt
+This sentence is classified as British English (Classified as 1) because the use of "me" instead of "I" in the phrase "it's me what should be doing it" is a common feature of some British dialects.
+205 Brt Brt
+This sentence is classified as British English (1). The use of the term "pantomime" is a strong indicator of British English, as pantomimes are a popular form of theatre in the UK, particularly around Christmas time.
+206 Brt Brt
+This sentence would be classified as British English (1). The phrase "born and bred" is commonly used in Britain to describe someone who was born and has grown up in the same particular place and has the characteristics of people from that place. The mention of a "flat cap" and a "pint of mild" also suggest a British context, as these are both strongly associated with traditional British culture.
+207 Brt Brt
+This sentence would be classified as British English (Classified as 1). The term "dole queue" is a British term referring to the line of people waiting to receive unemployment benefits.
+208 Brt Brt
+This sentence would be classified as 1 = British dialect. The use of the term "clubbing" is common in British English to refer to going out to nightclubs. Also, the name "Kyle" is more common in the UK.
+209 Brt Brt
+This sentence is in British English (Classified as 1) because "sod" is a term commonly used in Britain to refer to an unfortunate person.
+210 Brt Brt
+
+[[30.  0.  0.  0.  0.  0.  0.]
+ [ 4. 25.  0.  0.  0.  0.  1.]
+ [ 9.  1. 19.  1.  0.  0.  0.]
+ [ 3.  0.  0. 27.  0.  0.  0.]
+ [ 0.  1.  0.  0. 29.  0.  0.]
+ [ 7.  5.  0.  1.  2. 15.  0.]
+ [ 6.  7.  0.  1.  2.  0. 14.]]

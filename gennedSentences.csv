@@ -1,0 +1,62 @@
+  ,Input,Class_I,Output,Class_O
+0,"Sure, it's a grand day outside for a walk, isn't it?",Irs,"Sure, it's a lekker day outside for a walk, isn't it?",Saf
+1,I'll meet you down at the pub later for a pint.,Irs,I'll meet you down at the shebeen just now for a dop.,Saf
+2,We're just having a bit of craic at the party.,Irs,We're just playing around and enjoying at the party lah.,Sgp
+3,I'm feeling a bit peckish; could you pass the Tayto crisps?,Irs,I feeling a bit hungry lah; can pass the Tayto chips or not?,Sgp
+4,Would you be after stopping at the shop for some milk?,Irs,Would you mind popping into the shop for some milk?,Aus
+5,"That film was brilliant, so it was.",Irs,"That movie was bloody brilliant, wasn't it?",Aus
+6,"I’ve a notion to bake some soda bread this afternoon, would you like some?",Irs,"I'm getting an idea to make some soda bread this evening, would you like to have some?",Ind
+7,"It's a soft day, thank God, just a light drizzle.",Irs,"By God's grace, it's a pleasant day, just a light rain is there.",Ind
+8,"I'm after getting a new job in the city, so I am.",Irs,"I've just secured a new job in the city, indeed I have.",Brt
+9,"Let’s have a wee chat over a cup of coffee, shall we?",Irs,"Let's have a little natter over a cup of tea, shall we?",Brt
+10,I'm just popping around the corner to buy some biltong.,Saf,I'm just nipping 'round the corner to buy some biltong.,Irs
+11,"This new project is quite lekker, isn’t it?",Saf,"This new project is quite grand, isn't it?
+",Irs
+12,I reckon we should braai this weekend if the weather's good.,Saf,I think we should barbecue this weekend if the weather is good.,Sgp
+13,"I'll come visit you now-now, just finishing up some work.",Saf,"I coming to see you soon lah, just need clear some work first.",Sgp
+14,"That movie was too good, hey?",Saf,"That film was bloody brilliant, wasn't it?",Aus
+15,"I was thinking of going to the beach, just now, if the weather holds up.",Saf,"I was reckonin' on headin' to the beach, just now, if the weather holds up.",Aus
+16,"You're going to the game, not so?",Saf,"You're going for the match, isn't it?",Ind
+17,"I’ll fix this now-now, won’t take more than a minute.",Saf,"I'll set this right immediately, won't take more than a minute only.",Ind
+18,"Eish, I forgot to call him back yesterday, now it’s too late.",Saf,"Blimey, I forgot to ring him back yesterday, now it's too late.",Brt
+19,That rugby match was an absolute jol last night.,Saf,That rugby match was an absolute laugh last night.,Brt
+20,We can go makan at the hawker centre later.,Sgp,We can go for a bite to eat at the food court later.,Irs
+21,"You better study hard for the exam, if not later you regret.",Sgp,"You'd best be hittin' the books hard for the exam, if not you'll be regretting it later, so you will.",Irs
+22,"Eh, you very kiasu leh, always must be first in everything.",Sgp,"Eish, you're very competitive hey, always must be first in everything.",Saf
+23,That ice cream was so shiok.,Sgp,That ice cream was so lekker.,Saf
+24,Have you finished your homework already or not?,Sgp,You done your homework yet or what?,Aus
+25,"We need to submit this project by next week, can or not?",Sgp,"We gotta hand in this project by next week, can we or can't we?",Aus
+26,"He drives so fast, quite scary sometimes.",Sgp,"He drives so fast, it's quite frightening at times only.",Ind
+27,"Very sad actually, because I'm in the age pool where some people for some reason, have to go to the hospital",Sgp,"Really upsetting, yaar, because I'm in that age group where, for some reason, some people have to rush to the hospital.",Ind
+28,"She so garang, speaking up during meetings.",Sgp,"She's so assertive, speaking up during meetings.",Brt
+29,"I think he like sotong, go all the way there for nothing.",Sgp,"I reckon he likes squid, went all that way for no reason.",Brt
+30,"We are having some mates over for a barbie sarvo, you should come!",Aus,"We're having a few friends over for a barbecue this afternoon, you should come along!",Irs
+31,He's a few roo's loose in the top paddock,Aus,He's a few sandwiches short of a picnic.,Irs
+32,"I'm muzzed after that afterparty, it was a ripper of a party",Aus,"I'm dof after that afterparty, it was a jol of a party.",Saf
+33,"Accadaccas is something the Aussie feel proud of ,since it’s a rock band that has its origins in Australia",Aus,"Acca Dacca is something the Aussies take pride in, because it's a rock band that started off in Australia.",Saf
+34,"It's Friday, usually a g'day to be on the piss with mates",Aus,"It's Friday, normally a solid day to lim kopi with kakis.",Sgp
+35,"It’s the chrissie pressie, the best thing to open on a Sunday",Aus,"It’s the Christmas present lah, the best thing to open on a Sunday one.",Sgp
+36,Can yo spare a few bucks? Need it to exit the parking.,Aus,Can you give a few rupees? Need it to get out of the car park.,Ind
+37,"nah yeah, lets get on this boat and have fun",Aus,"Arre yaar, let's get on this boat and have some fun na.",Ind
+38,"Lets get a burger at maccas, might put a smile on the kids face",Aus,"Let's get a burger at Maccy D's, might put a smile on the kid's face.",Brt
+39,"Tim is a bludger, he always tries to sneak his way out of difficult situations",Aus,"Tim is a skiver, he always tries to wriggle his way out of tricky situations.",Brt
+40,"I have a kutti announcement, we are having a party at our place",Ind,"I've a wee announcement, we're havin' a party at our spot.",Irs
+41,"Everytime he sends a missed call, I think he never recharges his phone.",Ind,"Every time he gives a missed call, I reckon he never tops up his phone.",Irs
+42,"This watchman keep shouting something or the other, he never keeps quiet.",Ind,"This security guard keeps shouting this, that and the other, he never keeps still.",Saf
+43,"These boys don't like to complete their homework, they always disobey teacher and laugh like that only, ",Ind,"These chaps don't fancy doing their homework, they're always giving the teacher lip and they laugh just like that.",Saf
+44,"Don't worry about the predicted results, ill try my level best to get something close enough",Ind,"Don't worry about the expected result lah, I'll chiong and try my best to achieve something close enough one.",Sgp
+45,I would like to introduce you to my 'would be’,Ind,I want to introduce you to my 'going to be' one.,Sgp
+46,"I have a doubt, are you planning on going back home and then return, or come directly with us?",Ind,"Got a question, are ya thinkin' of going back home and then comin' back, or just coming directly with us, mate?",Aus
+47,"Very rough fellow, doesn't know how to handle with care.",Ind,"Real rough bloke, doesn't know how to handle with care.",Aus
+48,Kindly adjust the car seat. The people in the back can't sit properly,Ind,Would you mind adjusting the car seat? The people in the back can't sit properly.,Brt
+49,"Chumma don't act, we know you didn't buy",Ind,"Mate, don't pretend, we know you didn't purchase.",Brt
+50,"You don’t need to live here. I could get you into a nicer home. You know – prettier nurses, tea that comes on time.",Brt,"You don't have to be livin' here, sure. I could see to it that you're in a finer house. Y'know - lovelier nurses, a cup of tea that's always prompt.",Irs
+51,"She’s the second youngest in the house, after me of course, but the only other real adult apart from mum",Brt,"She's the next to youngest in the house, after meself of course, but the only other proper adult aside from mam.",Irs
+52,John They don’t know their arse from their elbow there. They don’t know sod all about music there,Brt,John They don't know their gat from their elbow there. They don't know flip all about music there.,Saf
+53,"merger or no merger, and let me say, very hastily at this point, that if you don’t all shout merger, this will be an extremely short pantomime",Brt,"merger or no merger, and let me say, very quickly at this point, that if you don’t all shout merger, this will be a bloody short pantomime",Saf
+54,"Aye it's not nice. Lots of druggies, scroungers, you know",Brt,"Alamak, it's not good one. Got a lot of drug kakis, free riders, you understand what I mean?",Sgp
+55,Without further ado I’ll let my darling wife Betty and my special daughter Emily do the revealing honours,Brt,"Without any more blabbering, I let my sayang wife Betty and my special daughter Emily do the revealing lah.",Sgp
+56,She’s also completely bonkers. Always seems to be worrying about what someone thinks,Brt,She's also completely mad. Always seems to be stressing about what someone reckons.,Aus
+57,"Skinny chap with a beard in a de-mob suit, and that knife up there in his kitbag",Brt,"Skinny bloke with a beard in a civvy suit, and that knife up there in his duffle bag",Aus
+58,"He fell off the stage at the Wigmore Hall and broke his leg, poor sod. So he offered me the holiday",Brt,"He slipped off the stage at the Wigmore Hall and fractured his leg, poor fellow. So he passed on the holiday to me.",Ind
+59,Born and bred with a flat cap and a pint of mild and a job in steelworks,Brt,Brought up wearing a topi and sipping a pint of mild beer with a job in steel factory.,Ind

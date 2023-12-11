@@ -1,0 +1,162 @@
+,Input,Class_I,Output,Class_O
+0,"Sure, it's a grand day outside for a walk, isn't it?",Irs,"Eh, the weather outside quite good for jalan-jalan, right?
+
+Reasoning: ""Eh"" is commonly used in Singaporean English (or Singlish) for calling attention. ""Quite good"" is a phrase often used by Singaporean to signify something is not just good, but quite satisfactory. ""Jalan-jalan"" is a Malay term used in Singlish meaning to ""go for a walk"". The word ""right"" at the end of the sentence is used as a question tag, which is commonly used by Singaporeans.",Singaporean
+1,I'll meet you down at the pub later for a pint.,Irs,"Later on I'll see you at the pub for a beer, okay? 
+
+Singaporean English, often referred to colloquially as 'Singlish', is famed for its unique phrases and sentence structure. In this translation, ""I'll meet you down"" is made simpler to ""I'll see you"", as direct translations are more commonly used in Singlish. ""For a pint"" is translated to ""for a beer"" because 'a pint' is not as commonly used in Singaporean English. The term 'okay' is added at the end, mirroring the trend of ending statements with question tags in informal Singlish.",Singaporean
+2,We're just having a bit of craic at the party.,Irs,"We're just having a bit of fun at the shindig. 
+
+This might be how an Australian might phrase it. ""Craic"" is a term commonly in Ireland and the United Kingdom, much less frequently in Australian English. Instead, they might use ""fun"". Additionally, ""party"" could be replaced with a more colloquial term like ""shindig"".",Australian
+3,I'm feeling a bit peckish; could you pass the Tayto crisps?,Irs,"I'm feeling a bit hungry; could you pass the chips, mate? 
+
+Reasoning: In Australian English, ""peckish"" can be replaced with ""hungry"" for better understanding. ""Mate"" is commonly used in Australia as a form of address. In place of Ireland's ""Tayto crisps,"" Australians would typically say ""chips.""",Australian
+4,Would you be after stopping at the shop for some milk?,Irs,"Can you pop by the store for some milk, buddy?
+
+Reasoning: Indian English often includes phrases like 'pop by' for 'stop at', and 'store' for 'shop'. Additionally, terms of endearment such as 'buddy' or 'friend' are commonly used.",Indian
+5,"That film was brilliant, so it was.",Irs,"Translated Sentence: That picture was first-rate, isn't it?
+
+Reasoning: The word 'film' is often replaced with 'picture' in Indian English. 'So it was' could be replaced with 'isn't it' as a way to seek affirmation in a typical Indian manner. 'Brilliant' is directly translated to 'first-rate' to maintain the positive appreciation of the subject.",Indian
+6,"I’ve a notion to bake some soda bread this afternoon, would you like some?",Irs,"I've a mind to bake some soda bread this afternoon, fancy some?
+
+Reasoning: In British English, the phrases ""I’ve a notion to"" and ""I tried to"" is often swapped for ""I've a mind to"". ""would you like some"" could be changed to the more colloquial ""fancy some"" which is commonly heard in everyday British English.",British
+7,"It's a soft day, thank God, just a light drizzle.",Irs,"It's a mild day, thank God, just a light drizzle. 
+
+In British English, especially among older generations, 'soft' in relation to weather often refers to gentle rain or drizzle. However, its usage is more common in Ireland than in the UK and could be regionally misunderstood. Therefore, the term 'mild' is adopted which is universally understood among British English speakers to mean temperate or not severe. The rest of the sentence remains the same as it is already in a form that would be understood by speakers of British English.",British
+8,I'm just popping around the corner to buy some biltong.,Saf,"I'm just going nearby only to buy some biltong lah.
+
+The sentence is translated to Singaporean English, commonly known as Singlish, a vernacular form of English spoken in Singapore. The addition of the word ""lah"" at the end of sentences is a common feature in Singlish and is used to emphasize a point or soften requests or imperatives. Singlish also often omits the use of prepositions and auxiliary verbs for simplicity and speed in everyday communication.",Singaporean
+9,"This new project is quite lekker, isn’t it?",Saf,"This new project quite shiok one, right?
+
+Reasoning: 
+In Singaporean English, or Singlish as it's colloquially known, the term ""shiok"" is used to express great pleasure or satisfaction. It's a term borrowed from Malay and is quite versatile. Here it's used to express the satisfaction about the new project, mirroring the meaning of ""lekker"" in the original sentence (a South African term for something enjoyable). The phrase ""one, right?"" is a casual, colloquial way to turn the statement into a question.",Singaporean
+10,I reckon we should braai this weekend if the weather's good.,Saf,"Mate, reckon we should fire up the barbie this weekend if the weather's good, yeah?
+
+The reasoning behind this Australian translation is because Australians commonly refer to their friends as 'mate'. They use 'reckon' instead of 'think', 'barbie' as an abbreviation for 'barbecue', and they often end their sentences with 'yeah' for confirmation. Furthermore, 'braai' is a term used in South Africa for a barbecue, so it's replaced with the Australian equivalent.",Australian
+11,"I'll come visit you now-now, just finishing up some work.",Saf,"I'll pop by directly, just wrapping up some work. 
+
+In Australian English, phrases such as 'come visit' may be replaced by more informal terms like 'pop by'. 'Now-now' is not typically used in Australian English, and instead direct phrases like 'directly' or 'in a bit' can be used. It's also common in Australian English to use 'work' instead of 'some work'.",Australian
+12,"That movie was too good, hey?",Saf,"That movie was first rate, isn't it?
+
+Reasoning: Indian English often uses British English terms, such as 'first rate'. Also, it is common to use 'isn't it' at the end of sentences as a tag question. This is a feature unique to Indian English.",Indian
+13,"I was thinking of going to the beach, just now, if the weather holds up.",Saf,"I was planning to head to the seashore just now, only if the weather stays good yaar.
+
+'Yaar' is an informal term used in Indian English generally among friends, similar to 'pal' or 'mate'. 'Seashore' is a more commonly used term in Indian English over 'beach'.
+",Indian
+14,"You're going to the game, not so?",Saf,"You're going to the match, aren't you?
+
+In British English, ""game"" referring to a sporting event is commonly called a ""match"". ""Not so?"" is not typically used in British English and has been replaced with the more colloquially used formal question tag ""aren't you?""",British
+15,"I’ll fix this now-now, won’t take more than a minute.",Saf,"I'll sort this out straight away, won't take more than a tick. 
+
+""Now-now"" is a phrase commonly used in South African English meaning shortly or soon, this is not used in British English. The term ""fix"" can be replaced with ""sort out"" which is more common in British English. The phrase ""more than a minute"" can be swapped with ""more than a tick"" as ""tick"" is a somewhat informal British term for moment or instant.",British
+16,We can go makan at the hawker centre later.,Sgp,"We can head over to the food court for some tucker later.
+
+Reasoning: The phrase ""go makan"" in the original sentence is not English but Malay for ""go eat"". In Australian English, the common term for eating could simply be ""head over for some tucker"". ""Hawker centre"" is Singaporean English for a type of food court, so in Australian English, it is simply translated as ""food court"". Australians also tend to use the phrase ""head over"" instead of ""go"".",Australian
+17,"You better study hard for the exam, if not later you regret.",Sgp,"You'd better hit the books hard for the test, mate, otherwise you'll be spewin' later. 
+
+In Australia, ""study"" can be referred to in a casual context as ""hit the books"". The use of ""mate"" is an iconic Australian way of referring to friends and people in general. ""Spewin'"" is Australian slang, typically implying great disappointment, similar to 'regret'.",Australian
+18,"Eh, you very kiasu leh, always must be first in everything.",Sgp,"Mate, you're a bit too competitive, always gotta be first in everything.
+
+Reasoning: 'Eh' in Singapore English (Singlish) can be translated to 'Mate' in Australian English as it is often used informally to address someone. 'Kiasu' is a Singlish term meaning overly competitive or afraid to lose out, this concept can be translated to 'a bit too competitive.' Lastly, 'leh' is a Singlish discourse particle that does not have an equivalent in standard English, so it is omitted in the Aussie translation.",Australian
+19,That ice cream was so shiok.,Sgp,"That ice cream was truly first-rate yaar. 
+
+Reasoning: The term ""shiok"" which is commonly used in Singapore and Malaysia to denote delicious or relishing food. In Indian English, there's no direct equivalent, but phrases like ""first-rate"" or ""top-class"" can be used to express a similar sentiment. The term ""yaar"" is a common informal term used in Indian English to mean ""friend"" or ""mate"", similar to ""dude"" or ""bro"" in American English.",Indian
+20,Have you finished your homework already or not?,Sgp,"Have you done with your homework or still doing it na?
+
+Explanation: The word 'na' is commonly used at the end of sentences or questions in Indian English. It is used to seek agreement or confirmation, similar to 'isn't it?', 'right?' or 'no?' in British English. Also, the phrase 'done with' is more common than 'finished' when talking about completing tasks like homework.",Indian
+21,"We need to submit this project by next week, can or not?",Sgp,"We have to give this project by next week, is it doable or not?
+
+Reasoning: Indian English usually uses formal and more explicit verbiage. The term ""can or not?"" is more common in Singlish (Singapore English) or Manglish (Malaysian English). The phrase ""is it doable or not?"" or ""possible or not?"" is a more direct translation in Indian English. Also, the verb ""submit"" might be replaced by ""give"" in casual Indian English conversation.",Indian
+22,"He drives so fast, quite scary sometimes.",Sgp,"He drives so fast, quite frightful at times. 
+
+In British English, the term ""frightful"" is generally used as a more typical expression to represent something scary or alarming.",British
+23,"Very sad actually, because I'm in the age pool where some people for some reason, have to go to the hospital",Sgp,"It's a real shame actually, because I'm at that age where, for some reason, some blokes have to pop off to the hospital.
+
+In this translation, ""very sad"" has been replaced with the more British English phrase ""a real shame"". ""Age pool"" has been retained as is appropriate in British English too. The phrase ""for some reason, some people"" is translated as ""for some reason, some blokes"" as ""blokes"" is a British slang term for ""guys"" or ""men"". Lastly, ""have to go to"" is replaced by ""have to pop off to"" as ""pop off to"" is a colloquially British way to say ""go to"".",British
+24,"She so garang, speaking up during meetings.",Sgp,"She's rather feisty, speaking up during meetings. 
+
+""Garang"" is a dialect word from Singapore English (Singlish) and it suggests someone being fierce or aggressive. British English does not contain an exact term for this, but 'feisty' could be used as it refers to someone who is assertive and spirited.",British
+25,"We are having some mates over for a barbie sarvo, you should come!",Aus,"We got some kakis coming over for a BBQ this afternoon, you should join la! 
+
+""Kaki"" is a colloquial term often used in Singapore to refer to buddies or friends. ""La"" is a common phrase ending sound in Singlish, it doesn't particularly mean anything but it's often used to soften a sentence or to emphasize the point.",Singaporean
+26,He's a few roo's loose in the top paddock,Aus,"The translated sentence in Singaporean English would be: ""He got a few screws loose upstairs lah.""
+
+Reasoning: In Singaporean English, also known as Singlish, the phrase ""a few screws loose upstairs"" is commonly used to describe someone with odd or eccentric behavior, signifying that the person isn't thinking clearly or is out of touch with reality. This is similar to the Australian slang “he’s a few roo's loose in the top paddock.” The word ""lah"" is a unique Singlish particle that often appears at the end of statements for emphasis or to soften a request or command. It doesn't have a specific English translation.",Singaporean
+27,"I'm muzzed after that afterparty, it was a ripper of a party",Aus,"I'm damn shagged after that party, it was seriously solid one sia.
+
+Reasoning: The use of ""damn"" in Singaporean English serves to emphasize or exaggerate a point, similar to how ""muzzed"" is used in the original sentence. ""Shagged"" is often used in Singaporean English to mean tired or exhausted. ""Solid"" is used to describe something that's impressive or good, substituting ""ripper"" from the original sentence. ""Sia"" is a Singlish particle for emphasis, often added at the end of sentences.",Singaporean
+28,"Accadaccas is something the Aussie feel proud of ,since it’s a rock band that has its origins in Australia",Aus,"The Indian English version could be: ""AC/DC is something Aussies take pride in, yaar, because it's a rock band that has its roots in Australia."" 
+
+Indian English often incorporates words from Indian languages such as Hindi, Bengali, Tamil, and others. The term ""yaar"" is a Hindi term that is used in casual conversation to refer to a friend or mate, similar to ""dude"" or ""buddy."" It is widely used in Indian English conversations between friends and peers.",Indian
+29,"It's Friday, usually a g'day to be on the piss with mates",Aus,"It's Friday, typically a good day to have a drink with friends, no?
+
+Indian English is generally more formal and less slangy compared to other English dialects. The phrase ""on the piss"" is Australian slang for drinking alcohol, which isn't commonly used in India. The term ""mates"" is also not often used and would be replaced with ""friends"". Adding a softener like ""no?"" at the end of the sentence is common in Indian English to invite agreement or confirmation.",Indian
+30,"It’s the chrissie pressie, the best thing to open on a Sunday",Aus,"""It's the Christmas gift, the best thing to open on a Sunday, mate.""
+
+The term ""chrissie pressie"" is not typical in Indian English. While the concept of Christmas is understood, more common terminology and phrasing would be used. Furthermore, in Indian English, endearing terms like ""mate"" or ""friend"" might often be used.",Indian
+31,Can yo spare a few bucks? Need it to exit the parking.,Aus,"Can you spare a few quid? Need it for the car park exit. 
+
+Reasoning: In British English, ""bucks"" (a slang term for dollars in American English) is replaced with ""quid"", a slang term for pounds. Similarly, ""parking"" is usually referred to as ""car park"" in British English.",British
+32,"nah yeah, lets get on this boat and have fun",Aus,"Right, let's hop on this boat and enjoy ourselves. 
+
+In British English, especially in terms of its colloquial language, phrases such as ""nah yeah"" are actually quite uncommon. instead, simple affirmatives like ""right,"" or ""ok"" are commonly used to convey agreement or the intent to commence an activity. Furthermore, ""lets get on"" can simply be changed to ""let's hop on."" Brits may use the term ""have fun"" just as Americans do, but ""enjoy ourselves"" gives it a more British nuance.",British
+33,"Tim is a bludger, he always tries to sneak his way out of difficult situations",Aus,"Tim is a skiver, he always tries to dodge his way out of sticky situations. 
+
+In British English, 'bludger' (Australian slang for a lazy person) is often replaced with 'skiver'. Similarly, 'sneak' is more colloquially represented by 'dodge', and 'difficult' situations are described as 'sticky' situations.",British
+34,"I have a kutti announcement, we are having a party at our place",Ind,"""Got a bit of news leh, we are throwing a party at our place lor.""
+
+Reasoning: In Singaporean English, often referred to as Singlish, 'Got' is commonly used as a replacement for 'have'. 'Leh' is a particle usually used at the end of a statement to soften its tone or to express a suggestion. 'Lor' is used at the end of a sentence to signify an acceptance of a situation.
+",Singaporean
+35,"Everytime he sends a missed call, I think he never recharges his phone.",Ind,"Everytime he give one missed call, I think he never top up his phone one. 
+
+Explanation: In Singaporean English, often known as Singlish, 'give one missed call' is often used instead of 'sends a missed call'. 'Never' is commonly used in place of 'doesn't' or 'hasn't'. The word 'one' is often used at the end of sentences for emphasis. 'Top up' is used in reference to adding credit to a prepaid mobile phone.",Singaporean
+36,"This watchman keep shouting something or the other, he never keeps quiet.",Ind,"This jaga always anyhow shout here and there, never can keep quiet one.
+
+In Singapore English (Singlish), 'Jaga' is a term used for watchman or guard, derived from Malay language. 'Anyhow' is used instead of 'something or the other', and 'one' is often used at the end of sentences to emphasise the point. The phrase 'never can keep quiet' is typical Singlish phrasing.",Singaporean
+37,"These boys don't like to complete their homework, they always disobey teacher and laugh like that only, ",Ind,"These blokes don't enjoy doing their homework, they're always giving the teacher a hard time and just sit there having a laugh.
+
+Reasoning: ""Boy"" in Australian English is often translated to ""bloke"". Australians also use the phrase ""giving a hard time"" to mean ""disobeying or causing trouble"". The phrase ""laugh like that only"" was adapted to ""just sit there having a laugh"" to capture the same concept using Australian English vernacular.",Australian
+38,"Don't worry about the predicted results, ill try my level best to get something close enough",Ind,"Mate, don't stress about the predicted results, I'll do my best to get something close enough.
+
+Reasoning: ""Dude"" is typically replaced with ""mate"" in Australian English. Furthermore, the phrase ""I'll try my level best"" would typically be simplified and made more casual, to something like ""I'll do my best"".",Australian
+39,I would like to introduce you to my 'would be’,Ind,"I'd like to introduce you to my 'would be'.
+
+As a dialectologist, it is important to retain the core meaning of the sentence while adapting it to the specific dialect. However, the phrase 'would be' meaning a future partner or spouse is common amongst all English dialects including Australian English. Since there is no special Australian term or phrasing for 'would be', the sentence remains the same.",Australian
+40,"I have a doubt, are you planning on going back home and then return, or come directly with us?",Ind,"Are you having a think about going home first and then coming back, or are you coming straight along with us?
+
+In this British English translation, the American phrase 'having a doubt' is replaced with a more common British English phrase 'having a think' which makes more sense to a UK-based English speaker. Additionally, 'going back home' is just 'going home' in British English and 'come directly with us' can be translated as 'coming straight along with us'.",British
+41,"Very rough fellow, doesn't know how to handle with care.",Ind,"Quite a rough bloke, doesn't know how to handle with care. 
+
+In Britain, people use the term 'bloke' to refer to a man or a 'guy', thus replacing 'fellow'. The structure and sense of the sentence remain unchanged.",British
+42,Kindly adjust the car seat. The people in the back can't sit properly,Ind,"Could you move your seat forward, mate? The folks in the back aren't able to sit right.
+
+In British English, ""Kindly adjust"" can feel quite formal; using ""could you"" instead fits most conversational contexts better. We also use ""mate"" in a casual interaction with friends, which is equivalent to the American ""dude"". The term ""folks"" is used informally to refer to a group of people and is widely used in both American and British English. Finally, ""aren't able to sit right"" carries the same meaning as ""can't sit properly"" but seemed like a more informal, conversational choice suitable for this context.",British
+43,"You don’t need to live here. I could get you into a nicer home. You know – prettier nurses, tea that comes on time.",Brt,"No need to stay here one, I can chope better place for you. Got chio nurses also, and your teh come punctual.
+
+In Singaporean English (also known as Singlish), ""No need"" is often used instead of ""You don't need"". ""One"" is a particle used for emphasis. ""Chope"" is a colloquial term for ""reserve"". ""Chio"" is a Singlish slang meaning attractive or good-looking and ""Teh"" is a term for tea. ""Punctual"" is a common way of referring to something that happens on time. The translation keeps the same meaning but in a style conversational to a Singaporean audience.",Singaporean
+44,"She’s the second youngest in the house, after me of course, but the only other real adult apart from mum",Brt,"She one the second paiseh one in the house hor, after me lah but she the only other big people other than mum one leh.
+
+Explanation:
+In Singlish or Singaporean English, ""one"" is often used at the end of sentences for emphasis. ""Hor"" and ""lah"" are discourse particles commonly used in Singlish. ""Hor"" is mostly used in agreement or when seeking agreement in a gentle manner and ""lah"" is a well-known Singlish particle, often used for assertion. ""Paiseh"" is a term commonly used to denote 'shy' or 'embarrassed', but in this context it's used to refer to someone younger, in a playful way. ""Big people"" is a direct translation for adults, used colloquially in Singlish.",Singaporean
+45,John They don’t know their arse from their elbow there. They don’t know sod all about music there,Brt,"Translation: ""Wah, they really blur like sotong there leh. They don't know zilch about music lor.""
+
+Reasoning: In Singlish (Singaporean English), ""blur like sotong"" is a common phrase used to describe someone who is completely clueless, much like the English phrase ""don't know their arse from their elbow"". ""Wah"" is a common interjection used to express surprise or disbelief. ""Lor"" is frequently used at the end of sentences to stress a point or show resignation or acceptance, similar to ""there"" in the original sentence. ""Zilch"" is a slang term for ""nothing"" which is understood in most English dialects, including Singlish.",Singaporean
+46,"merger or no merger, and let me say, very hastily at this point, that if you don’t all shout merger, this will be an extremely short pantomime",Brt,"Merge or no merge, and let me just add real quick here, if you all don't yell out merge, this is gonna be a bloody short panto.
+
+""Australians often use the term 'bloody' for emphasis, similar to how Americans might use 'damn' or 'really.' 'Pantomime' is universally understood, but it's got a different colloquial term in Australia as 'panto.'""",Australian
+47,"Aye it's not nice. Lots of druggies, scroungers, you know",Brt,"'Mate, it's not flash. Tons of druggies, bludgers, you know.'
+
+This translation changes the American ""Aye it's not nice"" to the Australian greeting ""Mate"", and substitutes ""flash"" for ""nice"" as it is a common Australian slang for good or impressive. The term ""druggies"" stays the same as it is common language in both dialects. ""Scroungers"" changes to ""bludgers"" as this refers to a person who avoids work and sponges off others in Australian slang.",Australian
+48,Without further ado I’ll let my darling wife Betty and my special daughter Emily do the revealing honours,Brt,"Without further ado, I'll let me beautiful wife Betty and me precious daughter Emily do the reveal. 
+
+Explanation: ""Darling"" and ""special"" are replaced with ""beautiful"" and ""precious"" respectively as these are common terms of endearments used in Australia. The word ""honours"" is simply reduced to ""reveal"" to reflect a more casual, laid-back Australian conversation style. ""My"" is also swapped with the more colloquial ""me"".",Australian
+49,She’s also completely bonkers. Always seems to be worrying about what someone thinks,Brt,"She’s also absolutely batty. Forever stressing about what someone else may be thinking, isn't it?
+
+Reasoning: In Indian English, 'batty' is commonly used to refer someone who is crazy or eccentric, similar to the use of 'bonkers' in American English. The phrase ""isn't it?"" at the end of the sentence is characteristic of Indian English as an enforcement of the point or a seeking of agreement, akin to the use of 'right?' in American English.",Indian
+50,"Skinny chap with a beard in a de-mob suit, and that knife up there in his kitbag",Brt,"Thin fellow with a beard in a retired soldier's attire, and that knife up there in his luggage mate.
+
+Reasoning: ""Skinny chap"" translates to ""Thin fellow"" as 'fellow' is commonly used to refer to a man in Indian English. ""De-mob suit"" is a very British phrase. In Indian English, it could be translated to ""retired soldier's attire"" to make it more understandable, because the term ""de-mob"" generally refers to demobilization or discharge from a military service. Lastly, ""kitbag"" translates to ""luggage"" which is a more widespread term used in Indian English. ""Mate"" is often used colloquially and is similar in usage to 'pal' or 'dude'.",Indian
+51,"He fell off the stage at the Wigmore Hall and broke his leg, poor sod. So he offered me the holiday",Brt,"He tumbled off the stage at Wigmore Hall and fractured his leg, poor chap. So, he handed me the holiday.
+
+Reasoning: 
+The term ""sod"" is largely associated with British dialects and is not very common in Indian English. It has been substituted with ""chap"", a term more frequently used in Indian English. ""He offered"" has been changed to ""he handed"", which suits Indian English better in this context.",Indian
